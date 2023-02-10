@@ -12,4 +12,4 @@ In this repository you will find some of the practical applications that were se
 
 ![](https://github.com/FacuJulia/Data-Analysis-with-Python-Certification/blob/main/images/Data-analysis-with-python-certificate.PNG)
 
-More info: https://www.freecodecamp.org/certification/FacuJulia/scientific-computing-with-python-v7
+More info: https://www.freecodecamp.org/certification/FacuJulia/data-analysis-with-python-v7
