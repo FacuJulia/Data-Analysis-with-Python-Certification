@@ -1,5 +1,7 @@
 # Data Analysis with Python
 
+I worked on these project with the IDE of Replit. You can click on any project in the list to access the environment and view the code.
+
 ## Projects of this course:
 
 * [Mean-Variance-Standard Deviation Calculator](https://replit.com/@FacuJulia/boilerplate-mean-variance-standard-deviation-calculator#main.py)
