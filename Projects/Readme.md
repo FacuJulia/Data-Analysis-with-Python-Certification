@@ -2,8 +2,8 @@
 
 ## Projects of this course:
 
-* [Arithmetic Formatter](https://replit.com/@FacuJulia/boilerplate-arithmetic-formatter#arithmetic_arranger.py)
-* [Time Calculator](https://replit.com/@FacuJulia/boilerplate-time-calculator#time_calculator.py)
-* [Budget App](https://replit.com/@FacuJulia/boilerplate-budget-app#budget.py)
-* [Polygon Area Calculator](https://replit.com/@FacuJulia/boilerplate-polygon-area-calculator#shape_calculator.py)
-* [Probability Calculator](https://replit.com/@FacuJulia/boilerplate-probability-calculator#prob_calculator.py)
+* [Mean-Variance-Standard Deviation Calculator](https://replit.com/@FacuJulia/boilerplate-mean-variance-standard-deviation-calculator#main.py)
+* [Demographic Data Analyzer](https://replit.com/@FacuJulia/boilerplate-demographic-data-analyzer#main.py)
+* [Medical Data Visualizer](https://replit.com/@FacuJulia/boilerplate-medical-data-visualizer#main.py)
+* [Page View Time Series Visualizer](https://replit.com/@FacuJulia/boilerplate-page-view-time-series-visualizer#main.py)
+* [Sea Level Predictor](https://replit.com/@FacuJulia/boilerplate-sea-level-predictor#main.py)
